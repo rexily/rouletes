@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rouletes/static/css/main.8ba81cd3.css",
+    "main.js": "/rouletes/static/js/main.26f793f2.js",
+    "static/media/chamber.wav": "/rouletes/static/media/chamber.12fc2065e43c68436d0e.wav",
+    "static/media/shot.wav": "/rouletes/static/media/shot.6f3227635d86be75895e.wav",
+    "static/media/misfire.wav": "/rouletes/static/media/misfire.0c7fb26961fb87177145.wav",
+    "index.html": "/rouletes/index.html",
+    "main.8ba81cd3.css.map": "/rouletes/static/css/main.8ba81cd3.css.map",
+    "main.26f793f2.js.map": "/rouletes/static/js/main.26f793f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ba81cd3.css",
+    "static/js/main.26f793f2.js"
+  ]
+}
