@@ -22,7 +22,7 @@ const App = () => {
   // let missSound2 = new Audio("./audio/misfire.wav");
   // let chamberSound2 = new Audio("./audio/chamber.wav");
 
-
+  // НОВЫЙ КОММЕНТ ДЛЯ ПРИМЕРА
 
   const pageStyle: React.CSSProperties = {
     display: 'flex',
